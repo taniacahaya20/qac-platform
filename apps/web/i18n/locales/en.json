@@ -1,0 +1,86 @@
+{
+  "app": {
+    "name": "QAC Tester",
+    "tagline": "Professional Test Case Management"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "projects": "Projects",
+    "overview": "Overview",
+    "testCases": "Test Cases",
+    "testRuns": "Test Runs",
+    "milestones": "Milestones",
+    "reports": "Reports",
+    "admin": "Administration",
+    "profile": "My Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "emailPlaceholder": "Enter your email",
+    "passwordPlaceholder": "Enter your password",
+    "loginButton": "Login",
+    "loginSuccess": "Login successful",
+    "loginError": "Invalid email or password",
+    "forgotPassword": "Forgot password?",
+    "loggingIn": "Processing...",
+    "welcomeBack": "Welcome back"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "activeRuns": "Active Runs",
+    "myTodo": "My Todo",
+    "recentActivity": "Recent Activity",
+    "activityChart": "14-Day Activity Chart",
+    "noTodo": "No tests assigned to you",
+    "noActivity": "No recent activity"
+  },
+  "project": {
+    "title": "Projects",
+    "new": "New Project",
+    "name": "Project Name",
+    "description": "Description",
+    "announcement": "Announcement",
+    "members": "Members",
+    "noProjects": "No projects yet",
+    "createFirst": "Create your first project"
+  },
+  "status": {
+    "Passed": "Passed",
+    "Failed": "Failed",
+    "Blocked": "Blocked",
+    "Retest": "Retest",
+    "Untested": "Untested",
+    "Skipped": "Skipped"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "create": "Create",
+    "update": "Update",
+    "search": "Search...",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "confirm": "Confirm",
+    "back": "Back",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No",
+    "total": "Total",
+    "actions": "Actions",
+    "name": "Name",
+    "description": "Description",
+    "createdAt": "Created",
+    "updatedAt": "Updated",
+    "noData": "No data",
+    "pagination": "Page {current} of {total}"
+  }
+}

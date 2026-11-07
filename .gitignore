@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.local
+*.local
+storage/
+data/
+**/data/
+pgdata/
+**/pgdata/
+*.sqlite
+.turbo/
+.nuxt/
+.output/

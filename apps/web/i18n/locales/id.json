@@ -1,0 +1,86 @@
+{
+  "app": {
+    "name": "QAC Tester",
+    "tagline": "Manajemen Test Case Profesional"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "projects": "Proyek",
+    "overview": "Ringkasan",
+    "testCases": "Test Cases",
+    "testRuns": "Test Runs",
+    "milestones": "Milestones",
+    "reports": "Laporan",
+    "admin": "Administrasi",
+    "profile": "Profil Saya",
+    "settings": "Pengaturan",
+    "logout": "Keluar"
+  },
+  "auth": {
+    "login": "Masuk",
+    "logout": "Keluar",
+    "email": "Email",
+    "password": "Password",
+    "emailPlaceholder": "Masukkan email Anda",
+    "passwordPlaceholder": "Masukkan password Anda",
+    "loginButton": "Masuk",
+    "loginSuccess": "Berhasil masuk",
+    "loginError": "Email atau password salah",
+    "forgotPassword": "Lupa password?",
+    "loggingIn": "Memproses...",
+    "welcomeBack": "Selamat datang kembali"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "activeRuns": "Run Aktif",
+    "myTodo": "Tugas Saya",
+    "recentActivity": "Aktivitas Terbaru",
+    "activityChart": "Grafik Aktivitas 14 Hari",
+    "noTodo": "Tidak ada tugas yang di-assign ke Anda",
+    "noActivity": "Belum ada aktivitas"
+  },
+  "project": {
+    "title": "Proyek",
+    "new": "Proyek Baru",
+    "name": "Nama Proyek",
+    "description": "Deskripsi",
+    "announcement": "Pengumuman",
+    "members": "Anggota",
+    "noProjects": "Belum ada proyek",
+    "createFirst": "Buat proyek pertama Anda"
+  },
+  "status": {
+    "Passed": "Lulus",
+    "Failed": "Gagal",
+    "Blocked": "Diblokir",
+    "Retest": "Perlu Diulang",
+    "Untested": "Belum Diuji",
+    "Skipped": "Dilewati"
+  },
+  "common": {
+    "save": "Simpan",
+    "cancel": "Batal",
+    "delete": "Hapus",
+    "edit": "Edit",
+    "view": "Lihat",
+    "create": "Buat",
+    "update": "Perbarui",
+    "search": "Cari...",
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "success": "Berhasil",
+    "confirm": "Konfirmasi",
+    "back": "Kembali",
+    "close": "Tutup",
+    "yes": "Ya",
+    "no": "Tidak",
+    "total": "Total",
+    "actions": "Aksi",
+    "name": "Nama",
+    "description": "Deskripsi",
+    "createdAt": "Dibuat",
+    "updatedAt": "Diperbarui",
+    "noData": "Tidak ada data",
+    "pagination": "Halaman {current} dari {total}"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "qac-tester",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev": "bun run --filter '*' dev",
+    "dev:api": "bun run --filter @qac/api dev",
+    "dev:web": "bun run --filter @qac/web dev",
+    "build": "bun run --filter '*' build",
+    "db:generate": "bun run --filter @qac/api db:generate",
+    "db:migrate": "bun run --filter @qac/api db:migrate",
+    "db:seed": "bun run --filter @qac/api db:seed",
+    "db:studio": "bun run --filter @qac/api db:studio",
+    "test": "bun run --filter '*' test",
+    "lint": "bun run --filter '*' lint",
+    "format": "prettier --write \"**/*.{ts,vue,json,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
